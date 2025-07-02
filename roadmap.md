@@ -1,12 +1,12 @@
 # Cybersecurity Learning Roadmap
 
 ## 1. Fundamental IT Skills
-- [ ] Computer Hardware Components
-- [ ] Connection Types and their functions
-	- [ ] NFC
-	- [ ] Bluetooth
-	- [ ] WiFi
-	- [ ] Infrared
+- [x] Computer Hardware Components
+- [x] Connection Types and their functions
+	- [x] NFC
+	- [x] Bluetooth
+	- [x] WiFi
+	- [x] Infrared
 - [ ] OS-Independent Troubleshooting
 - [ ] Understand Basics of Popular Suites
 	- [ ] MS Ofice Suite

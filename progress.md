@@ -1,5 +1,6 @@
 # Study Progress Journal
 
+
 ## 02-07-2025
 
 **Started my journey into cybersecurity today!**  
@@ -8,3 +9,6 @@ Focused on understanding the core concepts of networking and IT fundamentals.
 Feeling motivated and ready to dive deeper!
 
 Looking forward to consistent progress and mastering new skills step by step.
+
+- Completed: [Computer Hardware Components](notes/Computer-Hardware-Components.md)
+- Completed: [Connection Types and Their Function](notes/Connection-Types-and-their-function.md)
