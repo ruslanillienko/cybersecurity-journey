@@ -11,6 +11,13 @@ The goal of this project is to build solid foundational knowledge, track my prog
 - Utilize external resources (videos, courses, AI tools) for deeper understanding  
 - Build a transparent portfolio showcasing acquired knowledge and practical skills
 
+## About Me
+
+I am starting this learning journey from the very beginning of the cybersecurity roadmap.  
+Since 2022, I have been working as a network engineer focused on cybersecurity.  
+I hold a Bachelor's degree in Cybersecurity and a Master's degree in Software Engineering.  
+This project aims to systematize my existing knowledge and deepen my understanding of cybersecurity concepts in English, because most of my previous experience and education are in Ukrainian.
+
 ## Repository Structure
 
 - `roadmap.md` — study roadmap based on [roadmap.sh](https://roadmap.sh/cyber-security)  
