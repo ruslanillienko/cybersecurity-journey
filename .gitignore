@@ -1,0 +1,54 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+Icon
+._*
+
+# Thumbnails
+._.DS_Store
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*~
+*.bak
+*.log
+
+# VS Code and other editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Python virtual environments and cache (если решишь использовать)
+venv/
+__pycache__/
+*.py[cod]
+
+# Node.js (если появится)
+node_modules/
+npm-debug.log*
+
+# Backup and archive files
+*.tar
+*.zip
+*.gz
+*.rar
+*.7z
+*.bak
+*.old
+*.orig
+
+# System and hidden files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+

@@ -10,5 +10,5 @@ Feeling motivated and ready to dive deeper!
 
 Looking forward to consistent progress and mastering new skills step by step.
 
-- Completed: [Computer Hardware Components](notes/Computer-Hardware-Components.md)
-- Completed: [Connection Types and Their Function](notes/Connection-Types-and-their-function.md)
+- Completed: [Computer Hardware Components](notes/Fundamental-IT-Skills/Computer-Hardware-Components.md)
+- Completed: [Connection Types and Their Function](notes/Fundamental-IT-Skills/Connection-Types-and-their-function.md)
