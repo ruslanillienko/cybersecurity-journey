@@ -7,11 +7,11 @@
 	- [x] Bluetooth
 	- [x] WiFi
 	- [x] Infrared
-- [ ] OS-Independent Troubleshooting
-- [ ] Understand Basics of Popular Suites
-	- [ ] MS Ofice Suite
-	- [ ] iCloud
-	- [ ] Google Suite
+- [x] OS-Independent Troubleshooting
+- [x] Understand Basics of Popular Suites
+	- [x] MS Ofice Suite
+	- [x] iCloud
+	- [x] Google Suite
 - [ ] Basics of Computer Networking
 
 ## 2. Operating Systems (Windows, Linux)
