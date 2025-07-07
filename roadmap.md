@@ -12,7 +12,7 @@
 	- [x] MS Ofice Suite
 	- [x] iCloud
 	- [x] Google Suite
-- [ ] Basics of Computer Networking
+- [x] Basics of Computer Networking
 
 ## 2. Operating Systems (Windows, Linux)
 - [ ] Installation and Configuration
