@@ -1,13 +1,16 @@
 # Study Progress Journal
 
-## 07-07-2025
+## 09.07.2025
+- Completed: [Types of Operating Systems](notes/Operating-Systems/Types-of-Operating-Systems.md)
+
+## 07.07.2025
 - Completed: [Basics of Computer Networking](notes/Fundamental-IT-Skills/Basics-of-Computer-Networking.md)
 
-## 06-07-2025
+## 06.07.2025
 - Completed: [OS Independent Troubleshooting](notes/Fundamental-IT-Skills/OS-Independent-Troubleshooting.md)
 - Completed: [Popular Office Suites](notes/Fundamental-IT-Skills/Popular-Office-Suites.md)
 
-## 02-07-2025
+## 02.07.2025
 
 **Started my journey into cybersecurity today!**  
 Began exploring the official roadmap at [roadmap.sh/cyber-security](https://roadmap.sh/cyber-security) to build a strong foundation.  
