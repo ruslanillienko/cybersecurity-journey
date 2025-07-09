@@ -2,6 +2,7 @@
 
 ## 09.07.2025
 - Completed: [Types of Operating Systems](notes/Operating-Systems/Types-of-Operating-Systems.md)
+- Completed: [Popular Desktop Operating Systems](notes/Operating-Systems/Popular-Desktop-Operating-Systems.md)
 
 ## 07.07.2025
 - Completed: [Basics of Computer Networking](notes/Fundamental-IT-Skills/Basics-of-Computer-Networking.md)
