@@ -15,7 +15,7 @@
 - [x] Basics of Computer Networking
 
 ## 2. Operating Systems (Windows, Linux)
-- [ ] Installation and Configuration
+- [x] Installation and Configuration
 - [ ] Different Versions and Differences
 - [ ] Navigating using GUI and CLI
 - [ ] Understand Permissions

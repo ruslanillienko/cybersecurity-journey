@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 13.07.2025
+- Completed: [Secure Installation and Configuration](notes/Operating-Systems/Secure-Installation-and-Configuration.md)
+
 ## 09.07.2025
 - Completed: [Types of Operating Systems](notes/Operating-Systems/Types-of-Operating-Systems.md)
 - Completed: [Popular Desktop Operating Systems](notes/Operating-Systems/Popular-Desktop-Operating-Systems.md)
