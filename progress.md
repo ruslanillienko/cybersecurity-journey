@@ -2,6 +2,7 @@
 
 ## 13.07.2025
 - Completed: [Secure Installation and Configuration](notes/Operating-Systems/Secure-Installation-and-Configuration.md)
+- Completed: [Different Versions and Differences](notes/Operating-Systems/Different-Versions-and-Differences.md)
 
 ## 09.07.2025
 - Completed: [Types of Operating Systems](notes/Operating-Systems/Types-of-Operating-Systems.md)

@@ -16,7 +16,7 @@
 
 ## 2. Operating Systems (Windows, Linux)
 - [x] Installation and Configuration
-- [ ] Different Versions and Differences
+- [x] Different Versions and Differences
 - [ ] Navigating using GUI and CLI
 - [ ] Understand Permissions
 - [ ] Installing Software and Applications
