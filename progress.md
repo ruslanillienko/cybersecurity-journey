@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 15.07.2025
+- Completed: [Navigating Using GUI and CLI](notes/Operating-Systems/Navigating-Using-GUI-and-CLI.md)
+
 ## 13.07.2025
 - Completed: [Secure Installation and Configuration](notes/Operating-Systems/Secure-Installation-and-Configuration.md)
 - Completed: [Different Versions and Differences](notes/Operating-Systems/Different-Versions-and-Differences.md)
