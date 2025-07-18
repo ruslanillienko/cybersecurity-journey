@@ -66,7 +66,7 @@ These permissions can be inherited from parent folders or set explicitly.
 
 For a detailed understanding, refer to your 'deep-dive' articles on:
 
-* [Linux CLI Permissions](deep-dive/linux-cli-permissions.md)
+* [Linux CLI Permissions](../../../../deep-dive/Linux-CLI-Permissions.md)
 
 ### 2. Windows PowerShell Permissions
 
