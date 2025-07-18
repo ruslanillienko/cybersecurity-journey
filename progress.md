@@ -2,6 +2,7 @@
 
 ## 18.07.2025
 - Completed: [Understand Permissions](notes/Operating-Systems/Understand-Permissions.md)
+- Added: [Linux CLI Permissions](deep-dive/Linux-CLI-Permissions.md)
 
 ## 15.07.2025
 - Completed: [Navigating Using GUI and CLI](notes/Operating-Systems/Navigating-Using-GUI-and-CLI.md)
