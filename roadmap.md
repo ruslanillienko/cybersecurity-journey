@@ -18,7 +18,7 @@
 - [x] Installation and Configuration
 - [x] Different Versions and Differences
 - [x] Navigating using GUI and CLI
-- [ ] Understand Permissions
+- [x] Understand Permissions
 - [ ] Installing Software and Applications
 - [ ] Performing CRUD on Files
 - [ ] Troubleshooting

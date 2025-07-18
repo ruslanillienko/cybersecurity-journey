@@ -72,4 +72,4 @@ For a detailed understanding, refer to your 'deep-dive' articles on:
 
 For a detailed understanding, refer to your 'deep-dive' articles on:
 
-* [Windows PowerShell Permissions](deep-dive/windows-powershell-permissions.md)
+* [Windows PowerShell Permissions](../../deep-dive/Windows-PowerShell-Permissions.md)
