@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 18.07.2025
+- Completed: [Understand Permissions](notes/Operating-Systems/Understand-Permissions.md)
+
 ## 15.07.2025
 - Completed: [Navigating Using GUI and CLI](notes/Operating-Systems/Navigating-Using-GUI-and-CLI.md)
 
