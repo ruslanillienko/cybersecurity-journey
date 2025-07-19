@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 19.07.2025
+- Completed: [Installing Software and Applications](notes/Operating-Systems/Installing-Software-and-Applications.md)
+
 ## 18.07.2025
 - Completed: [Understand Permissions](notes/Operating-Systems/Understand-Permissions.md)
 - Added: [Linux CLI Permissions](deep-dive/Linux-CLI-Permissions.md)

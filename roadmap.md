@@ -19,7 +19,7 @@
 - [x] Different Versions and Differences
 - [x] Navigating using GUI and CLI
 - [x] Understand Permissions
-- [ ] Installing Software and Applications
+- [x] Installing Software and Applications
 - [ ] Performing CRUD on Files
 - [ ] Troubleshooting
 - [ ] Common Commands
