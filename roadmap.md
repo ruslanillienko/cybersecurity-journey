@@ -20,7 +20,7 @@
 - [x] Navigating using GUI and CLI
 - [x] Understand Permissions
 - [x] Installing Software and Applications
-- [ ] Performing CRUD on Files
+- [x] Performing CRUD on Files
 - [ ] Troubleshooting
 - [ ] Common Commands
 

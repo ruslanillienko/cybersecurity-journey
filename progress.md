@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 20.07.2025
+- Completed: [Performing CRUD on Files](notes/Operating-Systems/Performing-CRUD-on-Files.md)
+
 ## 19.07.2025
 - Completed: [Installing Software and Applications](notes/Operating-Systems/Installing-Software-and-Applications.md)
 
