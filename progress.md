@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 22.07.2025
+- Completed: [Troubleshooting](notes/Operating-Systems/Troubleshooting.md)
+
 ## 20.07.2025
 - Completed: [Performing CRUD on Files](notes/Operating-Systems/Performing-CRUD-on-Files.md)
 

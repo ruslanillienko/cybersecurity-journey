@@ -21,7 +21,7 @@
 - [x] Understand Permissions
 - [x] Installing Software and Applications
 - [x] Performing CRUD on Files
-- [ ] Troubleshooting
+- [x] Troubleshooting
 - [ ] Common Commands
 
 ## 3. Networking Knowledge
