@@ -22,7 +22,7 @@
 - [x] Installing Software and Applications
 - [x] Performing CRUD on Files
 - [x] Troubleshooting
-- [ ] Common Commands
+- [x] Common Commands
 
 ## 3. Networking Knowledge
 - [ ] Networking Basics

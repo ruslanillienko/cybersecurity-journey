@@ -2,6 +2,7 @@
 
 ## 22.07.2025
 - Completed: [Troubleshooting](notes/Operating-Systems/Troubleshooting.md)
+- Completed: [Common Commands](notes/Operating-Systems/Common-Commands.md)
 
 ## 20.07.2025
 - Completed: [Performing CRUD on Files](notes/Operating-Systems/Performing-CRUD-on-Files.md)
