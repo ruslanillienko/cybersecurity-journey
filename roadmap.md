@@ -26,7 +26,7 @@
 
 ## 3. Networking Knowledge
 - [ ] Networking Basics
-	- [ ] Understand the OSI model
+	- [x] Understand the OSI model
 	- [ ] Common Protocols and their Uses
 	- [ ] Common Ports and their Uses
 	- [ ] SSL vs TLS
