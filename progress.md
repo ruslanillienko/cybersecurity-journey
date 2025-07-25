@@ -3,6 +3,7 @@
 ## 25.07.2025
 - Completed: [Networking Knowledge](notes/Networking-Knowledge/Networking-Basics/Networking-Knowledge.md)
 - Completed: [Understand the OSI Model](notes/Networking-Knowledge/Networking-Basics/Understand-the-OSI-Model.md)
+- Added: [OSI vs TCP/IP Model](deep-dive/OSI-vs-TCP-IP-Model.md)
 
 ## 22.07.2025
 - Completed: [Troubleshooting](notes/Operating-Systems/Troubleshooting.md)
