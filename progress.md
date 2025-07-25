@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 25.07.2025
+- Completed: [Networking Knowledge](notes/Networking-Knowledge/Networking-Basics/Networking-Knowledge.md)
+
 ## 22.07.2025
 - Completed: [Troubleshooting](notes/Operating-Systems/Troubleshooting.md)
 - Completed: [Common Commands](notes/Operating-Systems/Common-Commands.md)
