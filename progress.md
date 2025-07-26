@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 26.07.2025
+- Completed: [Common Ports and Their Uses](notes/Networking-Knowledge/Networking-Basics/Common-Ports-and-Their-Uses.md)
+
 ## 25.07.2025
 - Completed: [Networking Knowledge](notes/Networking-Knowledge/Networking-Basics/Networking-Knowledge.md)
 - Completed: [Understand the OSI Model](notes/Networking-Knowledge/Networking-Basics/Understand-the-OSI-Model.md)

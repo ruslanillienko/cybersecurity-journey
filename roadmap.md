@@ -28,7 +28,7 @@
 - [ ] Networking Basics
 	- [x] Understand the OSI model
 	- [x] Common Protocols and their Uses
-	- [ ] Common Ports and their Uses
+	- [x] Common Ports and their Uses
 	- [ ] SSL vs TLS
 	- [ ] Basics of NAS and SAN
 - [ ] IP terminology
