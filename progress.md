@@ -2,6 +2,7 @@
 
 ## 26.07.2025
 - Completed: [Common Ports and Their Uses](notes/Networking-Knowledge/Networking-Basics/Common-Ports-and-Their-Uses.md)
+- Completed: [SSL vs TLS](notes/Networking-Knowledge/Networking-Basics/SSL-vs-TLS.md)
 
 ## 25.07.2025
 - Completed: [Networking Knowledge](notes/Networking-Knowledge/Networking-Basics/Networking-Knowledge.md)

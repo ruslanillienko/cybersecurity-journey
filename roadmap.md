@@ -29,7 +29,7 @@
 	- [x] Understand the OSI model
 	- [x] Common Protocols and their Uses
 	- [x] Common Ports and their Uses
-	- [ ] SSL vs TLS
+	- [x] SSL vs TLS
 	- [ ] Basics of NAS and SAN
 - [ ] IP terminology
 	- [ ] Basics of Subnetting 
