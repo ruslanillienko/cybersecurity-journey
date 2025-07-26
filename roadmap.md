@@ -25,12 +25,12 @@
 - [x] Common Commands
 
 ## 3. Networking Knowledge
-- [ ] Networking Basics
+- [x] Networking Basics
 	- [x] Understand the OSI model
 	- [x] Common Protocols and their Uses
 	- [x] Common Ports and their Uses
 	- [x] SSL vs TLS
-	- [ ] Basics of NAS and SAN
+	- [x] Basics of NAS and SAN
 - [ ] IP terminology
 	- [ ] Basics of Subnetting 
 	- [ ] Public vs Private IP Addresses
