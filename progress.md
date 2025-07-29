@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 29.07.2025
+- Completed: [Basics of Subnetting](notes/Networking-Knowledge/IP-terminology/Basics-of-Subnetting.md)
+
 ## 26.07.2025
 - Completed: [Common Ports and Their Uses](notes/Networking-Knowledge/Networking-Basics/Common-Ports-and-Their-Uses.md)
 - Completed: [SSL vs TLS](notes/Networking-Knowledge/Networking-Basics/SSL-vs-TLS.md)

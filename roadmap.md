@@ -32,7 +32,7 @@
 	- [x] SSL vs TLS
 	- [x] Basics of NAS and SAN
 - [ ] IP terminology
-	- [ ] Basics of Subnetting 
+	- [x] Basics of Subnetting 
 	- [ ] Public vs Private IP Addresses
 	- [ ] localhost
 	- [ ] loopback
