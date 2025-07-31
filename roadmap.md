@@ -34,7 +34,7 @@
 - [ ] IP terminology
 	- [x] Basics of Subnetting 
 	- [x] Public vs Private IP Addresses
-	- [ ] localhost
+	- [x] localhost
 	- [ ] loopback
 	- [ ] CIDR
 	- [ ] subnet mask
