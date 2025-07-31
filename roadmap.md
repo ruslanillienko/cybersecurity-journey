@@ -33,7 +33,7 @@
 	- [x] Basics of NAS and SAN
 - [ ] IP terminology
 	- [x] Basics of Subnetting 
-	- [ ] Public vs Private IP Addresses
+	- [x] Public vs Private IP Addresses
 	- [ ] localhost
 	- [ ] loopback
 	- [ ] CIDR
