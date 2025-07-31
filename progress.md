@@ -3,6 +3,7 @@
 ## 31.07.2025
 - Completed: [Public vs Private IP Addresses](notes/Networking-Knowledge/IP-terminology/Public-vs-Private-IP-Addresses.md)
 - Completed: [Localhost](notes/Networking-Knowledge/IP-terminology/Localhost.md)
+- Completed: [Loopback](notes/Networking-Knowledge/IP-terminology/Loopback.md)
 
 ## 29.07.2025
 - Completed: [Basics of Subnetting](notes/Networking-Knowledge/IP-terminology/Basics-of-Subnetting.md)

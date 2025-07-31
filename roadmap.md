@@ -35,7 +35,7 @@
 	- [x] Basics of Subnetting 
 	- [x] Public vs Private IP Addresses
 	- [x] localhost
-	- [ ] loopback
+	- [x] loopback
 	- [ ] CIDR
 	- [ ] subnet mask
 	- [ ] default gateway
