@@ -2,6 +2,7 @@
 
 ## 03.08.2025
 - Completed: [CIDR](notes/Networking-Knowledge/IP-terminology/CIDR.md)
+- Completed: [Subnet Mask](notes/Networking-Knowledge/IP-terminology/Subnet-Mask.md)
 
 ## 31.07.2025
 - Completed: [Public vs Private IP Addresses](notes/Networking-Knowledge/IP-terminology/Public-vs-Private-IP-Addresses.md)

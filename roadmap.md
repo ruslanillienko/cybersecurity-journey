@@ -37,7 +37,7 @@
 	- [x] localhost
 	- [x] loopback
 	- [x] CIDR
-	- [ ] subnet mask
+	- [x] subnet mask
 	- [ ] default gateway
 - [ ] Understand the Terminology
 	- [ ] VLAN
