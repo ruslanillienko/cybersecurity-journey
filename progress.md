@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 03.08.2025
+- Completed: [CIDR](notes/Networking-Knowledge/IP-terminology/CIDR.md)
+
 ## 31.07.2025
 - Completed: [Public vs Private IP Addresses](notes/Networking-Knowledge/IP-terminology/Public-vs-Private-IP-Addresses.md)
 - Completed: [Localhost](notes/Networking-Knowledge/IP-terminology/Localhost.md)

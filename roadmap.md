@@ -36,7 +36,7 @@
 	- [x] Public vs Private IP Addresses
 	- [x] localhost
 	- [x] loopback
-	- [ ] CIDR
+	- [x] CIDR
 	- [ ] subnet mask
 	- [ ] default gateway
 - [ ] Understand the Terminology
