@@ -31,14 +31,14 @@
 	- [x] Common Ports and their Uses
 	- [x] SSL vs TLS
 	- [x] Basics of NAS and SAN
-- [ ] IP terminology
+- [x] IP terminology
 	- [x] Basics of Subnetting 
 	- [x] Public vs Private IP Addresses
 	- [x] localhost
 	- [x] loopback
 	- [x] CIDR
 	- [x] subnet mask
-	- [ ] default gateway
+	- [x] default gateway
 - [ ] Understand the Terminology
 	- [ ] VLAN
 	- [ ] DMZ
