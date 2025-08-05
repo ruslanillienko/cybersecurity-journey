@@ -40,7 +40,7 @@
 	- [x] subnet mask
 	- [x] default gateway
 - [ ] Understand the Terminology
-	- [ ] VLAN
+	- [x] VLAN
 	- [ ] DMZ
 	- [ ] ARP
 	- [ ] VM
