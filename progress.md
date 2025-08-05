@@ -3,6 +3,7 @@
 ## 05.08.2025
 - Completed: [VLAN](notes/Networking-Knowledge/Understand-the-Terminology/VLAN.md)
 - Completed: [DMZ](notes/Networking-Knowledge/Understand-the-Terminology/DMZ.md)
+- Completed: [ARP](notes/Networking-Knowledge/Understand-the-Terminology/ARP.md)
 
 ## 03.08.2025
 - Completed: [CIDR](notes/Networking-Knowledge/IP-terminology/CIDR.md)

@@ -42,7 +42,7 @@
 - [ ] Understand the Terminology
 	- [x] VLAN
 	- [x] DMZ
-	- [ ] ARP
+	- [x] ARP
 	- [ ] VM
 	- [ ] DHCP
 	- [ ] DNS
