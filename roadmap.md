@@ -41,7 +41,7 @@
 	- [x] default gateway
 - [ ] Understand the Terminology
 	- [x] VLAN
-	- [ ] DMZ
+	- [x] DMZ
 	- [ ] ARP
 	- [ ] VM
 	- [ ] DHCP
