@@ -43,7 +43,7 @@
 	- [x] VLAN
 	- [x] DMZ
 	- [x] ARP
-	- [ ] VM
+	- [x] VM
 	- [ ] DHCP
 	- [ ] DNS
 	- [ ] NAT

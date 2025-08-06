@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 06.08.2025
+- Completed: [VM](notes/Networking-Knowledge/Understand-the-Terminology/VM.md)
+
 ## 05.08.2025
 - Completed: [VLAN](notes/Networking-Knowledge/Understand-the-Terminology/VLAN.md)
 - Completed: [DMZ](notes/Networking-Knowledge/Understand-the-Terminology/DMZ.md)
