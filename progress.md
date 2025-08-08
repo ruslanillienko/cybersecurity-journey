@@ -2,6 +2,7 @@
 
 ## 08.08.2025
 - Completed: [DHCP](notes/Networking-Knowledge/Understand-the-Terminology/DHCP.md)
+- Completed: [DNS](notes/Networking-Knowledge/Understand-the-Terminology/DNS.md)
 
 ## 06.08.2025
 - Completed: [VM](notes/Networking-Knowledge/Understand-the-Terminology/VM.md)

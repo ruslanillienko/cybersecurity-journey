@@ -45,7 +45,7 @@
 	- [x] ARP
 	- [x] VM
 	- [x] DHCP
-	- [ ] DNS
+	- [x] DNS
 	- [ ] NAT
 	- [ ] IP
 	- [ ] Router
