@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 08.08.2025
+- Completed: [DHCP](notes/Networking-Knowledge/Understand-the-Terminology/DHCP.md)
+
 ## 06.08.2025
 - Completed: [VM](notes/Networking-Knowledge/Understand-the-Terminology/VM.md)
 

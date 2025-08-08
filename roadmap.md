@@ -44,7 +44,7 @@
 	- [x] DMZ
 	- [x] ARP
 	- [x] VM
-	- [ ] DHCP
+	- [x] DHCP
 	- [ ] DNS
 	- [ ] NAT
 	- [ ] IP
