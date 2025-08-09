@@ -51,14 +51,7 @@
 	- [x] Router
 	- [ ] Switch
 	- [ ] VPN
-- [ ] Network Types
-	- [ ] MAN
-	- [ ] LAN
-	- [ ] WAN
-	- [ ] WLAN
-- [ ] Network Services
-	- [ ] DHCP
-	- [ ] DNS
+	- [ ] Network Types (MAN, LAN, WAN, WLAN)
 	- [ ] NTP
 	- [ ] IPAM
 - [ ] Network Topologies
