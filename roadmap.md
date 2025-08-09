@@ -48,7 +48,7 @@
 	- [x] DNS
 	- [x] NAT
 	- [x] IP
-	- [ ] Router
+	- [x] Router
 	- [ ] Switch
 	- [ ] VPN
 - [ ] Network Types
