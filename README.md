@@ -26,6 +26,8 @@ This project aims to systematize my existing knowledge and deepen my understandi
 - `notes/` — cheat sheets and supporting materials  
 - `lab/` — labs, scripts, and CTF solutions
 
+[My ROADMAP Progress](https://roadmap.sh/cyber-security?s=65e1dcd78947e435e75cbe28)
+
 ## Contact
 
 LinkedIn: [Ruslan Illienko](https://www.linkedin.com/in/ruslan-illienko)
