@@ -47,7 +47,7 @@
 	- [x] DHCP
 	- [x] DNS
 	- [x] NAT
-	- [ ] IP
+	- [x] IP
 	- [ ] Router
 	- [ ] Switch
 	- [ ] VPN
