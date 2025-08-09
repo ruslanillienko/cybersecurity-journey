@@ -50,7 +50,7 @@
 	- [x] IP
 	- [x] Router
 	- [x] Switch
-	- [ ] VPN
+	- [x] VPN
 	- [ ] Network Types (MAN, LAN, WAN, WLAN)
 	- [ ] NTP
 	- [ ] IPAM
