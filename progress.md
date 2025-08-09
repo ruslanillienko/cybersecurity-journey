@@ -4,6 +4,7 @@
 - Completed: [NAT](notes/Networking-Knowledge/Understand-the-Terminology/NAT.md)
 - Completed: [IP](notes/Networking-Knowledge/Understand-the-Terminology/IP.md)
 - Completed: [Router](notes/Networking-Knowledge/Understand-the-Terminology/Router.md)
+- Completed: [Switch](notes/Networking-Knowledge/Understand-the-Terminology/Switch.md)
 
 ## 08.08.2025
 - Completed: [DHCP](notes/Networking-Knowledge/Understand-the-Terminology/DHCP.md)

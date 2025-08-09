@@ -49,7 +49,7 @@
 	- [x] NAT
 	- [x] IP
 	- [x] Router
-	- [ ] Switch
+	- [x] Switch
 	- [ ] VPN
 	- [ ] Network Types (MAN, LAN, WAN, WLAN)
 	- [ ] NTP
