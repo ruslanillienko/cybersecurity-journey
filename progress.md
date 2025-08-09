@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 09.08.2025
+- Completed: [NAT](notes/Networking-Knowledge/Understand-the-Terminology/NAT.md)
+
 ## 08.08.2025
 - Completed: [DHCP](notes/Networking-Knowledge/Understand-the-Terminology/DHCP.md)
 - Completed: [DNS](notes/Networking-Knowledge/Understand-the-Terminology/DNS.md)

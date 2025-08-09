@@ -46,7 +46,7 @@
 	- [x] VM
 	- [x] DHCP
 	- [x] DNS
-	- [ ] NAT
+	- [x] NAT
 	- [ ] IP
 	- [ ] Router
 	- [ ] Switch
