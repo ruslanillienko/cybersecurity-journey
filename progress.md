@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 14.08.2025
+- Completed: [Network Types](notes/Networking-Knowledge/Understand-the-Terminology/Network-Types.md)
+
 ## 09.08.2025
 - Completed: [NAT](notes/Networking-Knowledge/Understand-the-Terminology/NAT.md)
 - Completed: [IP](notes/Networking-Knowledge/Understand-the-Terminology/IP.md)
