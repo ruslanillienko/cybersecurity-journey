@@ -52,7 +52,7 @@
 	- [x] Switch
 	- [x] VPN
 	- [x] Network Types (MAN, LAN, WAN, WLAN)
-	- [ ] NTP
+	- [x] NTP
 	- [ ] IPAM
 - [ ] Network Topologies
 	- [ ] Star
