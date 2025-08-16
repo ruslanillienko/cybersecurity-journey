@@ -39,7 +39,7 @@
 	- [x] CIDR
 	- [x] subnet mask
 	- [x] default gateway
-- [ ] Understand the Terminology
+- [x] Understand the Terminology
 	- [x] VLAN
 	- [x] DMZ
 	- [x] ARP
@@ -53,7 +53,7 @@
 	- [x] VPN
 	- [x] Network Types (MAN, LAN, WAN, WLAN)
 	- [x] NTP
-	- [ ] IPAM
+	- [x] IPAM
 - [ ] Network Topologies
 	- [ ] Star
 	- [ ] Ring

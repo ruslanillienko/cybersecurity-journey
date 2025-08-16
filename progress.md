@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 16.08.2025
+- Completed: [IPAM](notes/Networking-Knowledge/Understand-the-Terminology/IPAM.md)
+
 ## 14.08.2025
 - Completed: [Network Types](notes/Networking-Knowledge/Understand-the-Terminology/Network-Types.md)
 - Completed: [NTP](notes/Networking-Knowledge/Understand-the-Terminology/NTP.md)
