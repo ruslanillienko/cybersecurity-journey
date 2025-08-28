@@ -19,10 +19,10 @@
 
 ## Networking Troubleshooting
 - Check physical connections
-- Validate IP config (e.g., 'ip a', 'ipconfig')
-- Use tools: 'ping', 'traceroute', 'nslookup', 'netstat', etc.
+- Validate IP config (e.g., `ip a`, `ipconfig`)
+- Use tools: `ping`, `traceroute`, `nslookup`, `netstat`, etc.
 
 ## Log Analysis
-- Identify relevant log files (e.g., '/var/log', Event Viewer)
+- Identify relevant log files (e.g., `/var/log`, Event Viewer)
 - Search for error codes or timestamps
-- Use tools like 'grep', 'less', or GUI log viewers
+- Use tools like `grep`, `less`, or GUI log viewers
