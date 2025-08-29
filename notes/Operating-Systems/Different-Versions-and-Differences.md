@@ -19,7 +19,7 @@ In cybersecurity, staying current with software versions and understanding diffe
 
 ### 🧩 Software Differences
 - Tools may differ in scope, features, licensing (open-source vs. proprietary), and community support.
-- Example: 'Wireshark' (GUI) vs. 'tcpdump' (CLI) – both are packet analyzers but suited for different use cases.
+- Example: `Wireshark` (GUI) vs. `tcpdump` (CLI) – both are packet analyzers but suited for different use cases.
 
 ### 💻 Operating System Differences
 - Security models, user permissions, logging, and update mechanisms vary:
@@ -29,9 +29,9 @@ In cybersecurity, staying current with software versions and understanding diffe
 
 ### 🌐 Protocol Differences
 - Different protocols offer varying levels of security and use cases:
-  - 'HTTP' vs. 'HTTPS': HTTPS adds TLS encryption
-  - 'FTP' vs. 'SFTP': SFTP runs over SSH and is secure
-  - 'Telnet vs. 'SSH': SSH encrypts communication
+  - `HTTP` vs. `HTTPS`: HTTPS adds TLS encryption
+  - `FTP` vs. `SFTP`: SFTP runs over SSH and is secure
+  - `Telnet` vs. `SSH`: SSH encrypts communication
 
 ### 🚨 Threat Differences
 - Understanding threat types helps implement proper defenses:
