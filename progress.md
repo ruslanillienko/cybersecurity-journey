@@ -2,6 +2,7 @@
 
 ## 29.08.2025
 - Completed: [Star Topology](notes/Networking-Knowledge/Network-Protocols-and-Topologies/Star-Topology.md)
+- Completed: [Ring Topology](notes/Networking-Knowledge/Network-Protocols-and-Topologies/Ring-Topology.md)
 
 ## 16.08.2025
 - Completed: [IPAM](notes/Networking-Knowledge/Understand-the-Terminology/IPAM.md)

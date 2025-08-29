@@ -56,7 +56,7 @@
 	- [x] IPAM
 - [ ] Network Protocols and Topologies
 	- [x] Star
-	- [ ] Ring
+	- [x] Ring
 	- [ ] Mesh
 	- [ ] Bus
 	- [ ] SSH
