@@ -54,12 +54,11 @@
 	- [x] Network Types (MAN, LAN, WAN, WLAN)
 	- [x] NTP
 	- [x] IPAM
-- [ ] Network Topologies
+- [ ] Network Protocols and Topologies
 	- [ ] Star
 	- [ ] Ring
 	- [ ] Mesh
 	- [ ] Bus
-- [ ] Network Protocols
 	- [ ] SSH
 	- [ ] RDP
 	- [ ] FTP
