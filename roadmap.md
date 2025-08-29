@@ -55,7 +55,7 @@
 	- [x] NTP
 	- [x] IPAM
 - [ ] Network Protocols and Topologies
-	- [ ] Star
+	- [x] Star
 	- [ ] Ring
 	- [ ] Mesh
 	- [ ] Bus
