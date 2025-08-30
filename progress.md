@@ -1,5 +1,8 @@
 # Study Progress Journal
 
+## 30.08.2025
+- Completed: [Mesh Topology](notes/Networking-Knowledge/Network-Protocols-and-Topologies/Mesh-Topology.md)
+
 ## 29.08.2025
 - Completed: [Star Topology](notes/Networking-Knowledge/Network-Protocols-and-Topologies/Star-Topology.md)
 - Completed: [Ring Topology](notes/Networking-Knowledge/Network-Protocols-and-Topologies/Ring-Topology.md)

@@ -57,7 +57,7 @@
 - [ ] Network Protocols and Topologies
 	- [x] Star
 	- [x] Ring
-	- [ ] Mesh
+	- [x] Mesh
 	- [ ] Bus
 	- [ ] SSH
 	- [ ] RDP
