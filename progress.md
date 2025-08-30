@@ -2,6 +2,7 @@
 
 ## 30.08.2025
 - Completed: [Mesh Topology](notes/Networking-Knowledge/Network-Protocols-and-Topologies/Mesh-Topology.md)
+- Completed: [Bus Topology](notes/Networking-Knowledge/Network-Protocols-and-Topologies/Bus-Topology.md)
 
 ## 29.08.2025
 - Completed: [Star Topology](notes/Networking-Knowledge/Network-Protocols-and-Topologies/Star-Topology.md)

@@ -58,7 +58,7 @@
 	- [x] Star
 	- [x] Ring
 	- [x] Mesh
-	- [ ] Bus
+	- [x] Bus
 	- [ ] SSH
 	- [ ] RDP
 	- [ ] FTP
